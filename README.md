@@ -34,4 +34,7 @@ The author is **not responsible** for any misuse.
 1. Clone this repository  
 2. Run the demo scripts in a **controlled, safe environment**  
 3. Observe how a ransomware attack would typically behave  
-4. Learn mitigation strategies to defend against it  
+4. Learn mitigation strategies to defend against it
+
+```Bash
+https://github.com/sachinpandey7709/File-Encryption-Awareness-Project-Ethical-Demo-.git
