@@ -35,7 +35,7 @@ class RansomwareGUI:
 
         # Password Section
         tk.Label(master, text="Password", font=font_style, fg="green", bg="white").pack()
-        tk.Entry(master, textvariable=self.password, font=font_style, show="password", width=40).pack(pady=5)
+        tk.Entry(master, textvariable=self.password, font=font_style, show="*", width=40).pack(pady=5)
 
         # Mode Selection (Encrypt / Decrypt)
         tk.Label(master, text="Mode", font=font_style, fg="green", bg="white").pack()
