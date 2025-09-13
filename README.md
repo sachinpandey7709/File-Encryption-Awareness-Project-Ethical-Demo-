@@ -26,7 +26,13 @@ The author is **not responsible** for any misuse.
 - Cybersecurity education in classrooms  
 - Awareness workshops for organizations  
 - Research on ransomware attack patterns  
-- Security labs and capture-the-flag (CTF) events  
+- Security labs and capture-the-flag (CTF) events
+
+---
+
+## This Tool Tested On : 
+- Kali Linux
+- Parrot Security OS
 
 ---
 
