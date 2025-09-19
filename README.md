@@ -43,4 +43,6 @@ The author is **not responsible** for any misuse.
 4. Learn mitigation strategies to defend against it
 
 ```Bash
-https://github.com/sachinpandey7709/File-Encryption-Awareness-Project-Ethical-Demo-.git
+git clone https://github.com/sachinpandey7709/File-Encryption-Awareness-Project-Ethical-Demo-.git
+cd File-Encryption-Awareness-Project-Ethical-Demo-
+python3 code.py
